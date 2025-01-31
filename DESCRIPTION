@@ -5,8 +5,7 @@ Authors@R:
     person(given = "Lloyd Winston", family = "Jones", email = "lwj1@hood.edu", 
           role = c("aut","cre"))
 Description: This package is a workflow to extract & illustrate peptide modifications from Spectronaut.
-License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
-    license
+License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.3.2
