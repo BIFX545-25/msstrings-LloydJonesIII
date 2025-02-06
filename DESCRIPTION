@@ -1,5 +1,5 @@
 Package: MSstrings
-Title: What the Package Does (One Line, Title Case)
+Title: Does Some Stuff
 Version: 0.0.1
 Authors@R: 
     person(given = "Lloyd Winston", family = "Jones", email = "lwj1@hood.edu", 
