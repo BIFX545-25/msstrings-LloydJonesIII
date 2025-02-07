@@ -8,9 +8,9 @@
 #' and displays the data in a pleasing format.
 #'
 #' @param seqs Character vector, Peptide sequence strings from the spectronaut output
-#' @param foramt Character Value, format of the input strings
+#' @param format Character Value, format of the input strings
 #'
-#' @return A 'protein_mod' object, which is a data.frame with the amino acid sequences and modifications
+#' @return A `protein_mods` object, which is a data.frame with the amino acid sequences and modifications
 #' @export
 #' @importFrom Biostrings AAStringSet
 #' @importFrom dplyr tibble
