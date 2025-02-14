@@ -1,11 +1,13 @@
 Package: MSstrings
 Title: Does Some Stuff
-Version: 0.1.0-Beta
+Version: 0.1.0
 Authors@R: 
     person(given = "Lloyd Winston", family = "Jones", email = "lwj1@hood.edu", 
           role = c("aut","cre"))
 Description: This package is a workflow to extract & illustrate peptide modifications from Spectronaut.
 License: MIT + file LICENSE
+Depends: 
+    R (>= 3.5)
 BiocViews:
 Imports:
   Biostrings,
@@ -18,3 +20,4 @@ RoxygenNote: 7.3.2
 Suggests: 
     testthat (>= 3.0.0)
 Config/testthat/edition: 3
+LazyData: true

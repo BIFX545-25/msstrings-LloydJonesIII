@@ -15,7 +15,7 @@
 #' @importFrom Biostrings AAStringSet
 #' @importFrom dplyr tibble
 #' @importFrom purrr map map_chr
-#' @importFrom stringr str_extract_all str_replace str_replace_all str_split
+#' @importFrom stringr str_extract_all str_replace str_replace_all str_split fixed
 
 parse_mods <- function(seqs, format = 'Spectronaut')
 {
